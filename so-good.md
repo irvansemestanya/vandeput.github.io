@@ -25,7 +25,7 @@ Job that doesn't allow you to use the craftman mindset:
 
 What is the market? Winner-take-all, so only _the quality_ of a specific skill matters. Or auction, _the combination_ of skills are ones that matter.
 
-There will be at least 10 thousand hours before reaching mastery, working hard is not enough. Do )deliberate practice_, stretching yourself over your comfort zone, doing things that are mentally exhaustive and not enjoyable.
+There will be at least 10 thousand hours before reaching mastery and working hard is not enough. Do _deliberate practice_, stretching yourself over your comfort zone, doing things that are mentally exhaustive and not enjoyable.
 
 ## 3. Turn Down a Promotion
 
