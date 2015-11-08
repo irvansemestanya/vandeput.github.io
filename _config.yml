@@ -6,3 +6,10 @@ email: irvan.putra@gmail.com
 github: vandeput
 twitter: irvan_visi
 google_analytics: UA-65685918-1
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "layout"
