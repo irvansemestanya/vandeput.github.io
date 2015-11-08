@@ -30,14 +30,12 @@
         </p>
     </header>
     <div class="thirteen columns clearfix">
-
         {{ content }}
-
+    </div>
     <footer class="thirteen columns">
         <p>© All rights reserved. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and
             <a href="http://www.github.com/biomadeira/vitae">vitae</a> with ♥</p>
     </footer>
-    </div>
 </div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
