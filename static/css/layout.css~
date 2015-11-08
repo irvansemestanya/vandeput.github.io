@@ -141,5 +141,4 @@ em {
 footer p {
     margin-bottom: 10px;
     font-size: 10pt;
-    text-align: center;
 }
