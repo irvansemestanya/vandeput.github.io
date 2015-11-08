@@ -15,7 +15,7 @@ The "follow your passion" advice is dangerous, as not everyone understand what t
 
 ## 2. Be So Good They Can't Ignore You
 
-Rather than asking what the job will offer you, ask yourself what you can offer (the career capital), is it rare and valuable skills?
+Rather than asking what the job will offer you, ask yourself what you can offer (the career capital), do you have the rare and valuable skills?
 
 Job that doesn't allow you to use the craftman mindset:
 
@@ -23,7 +23,9 @@ Job that doesn't allow you to use the craftman mindset:
 2. You think it is useless or perhaps bad for the world.
 3. Forces you to work with people you really dislike.
 
-abc
+The Habits of a Craftman:
+
+1. What is the market? Winner-take-all, so only _the quality_ of a specific skill matters. Or auction, _the combination_ of skills are ones that matter.
 
 ## 3. Turn Down a Promotion
 
