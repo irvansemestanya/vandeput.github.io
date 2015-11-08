@@ -5,9 +5,7 @@ permalink: /so-good/
 
 # So Good They Can't Ignore You
 
-## Why Skills Trump Passion in The Quest for Work You Love
-
-### CAL NEWPORT
+So, [Mufid](https://github.com/mufid) lent me a book to read. I took me more than a month to read the book in my dwindling spare time. Finally, after delaying for more time, I have finished the book. This is my note:
 
 Rules:
 
