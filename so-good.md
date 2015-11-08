@@ -23,9 +23,9 @@ Job that doesn't allow you to use the craftman mindset:
 2. You think it is useless or perhaps bad for the world.
 3. Forces you to work with people you really dislike.
 
-The Habits of a Craftman:
+What is the market? Winner-take-all, so only _the quality_ of a specific skill matters. Or auction, _the combination_ of skills are ones that matter.
 
-1. What is the market? Winner-take-all, so only _the quality_ of a specific skill matters. Or auction, _the combination_ of skills are ones that matter.
+There will be at least 10 thousand hours before reaching mastery, working hard is not enough. Do )deliberate practice_, stretching yourself over your comfort zone, doing things that are mentally exhaustive and not enjoyable.
 
 ## 3. Turn Down a Promotion
 
