@@ -18,9 +18,12 @@ The "follow your passion" advice is dangerous, as not everyone understand what t
 Rather than asking what the job will offer you, ask yourself what you can offer (the career capital), is it rare and valuable skills?
 
 Job that doesn't allow you to use the craftman mindset:
+
 - Few to no opportunities to distinguish yourself by skills.
 - You think it is useless or perhaps bad for the world.
 - Forces you to work with people you really dislike.
+
+o
 
 3. Turn Down a Promotion _(Or, the Importance of Control)_
 
