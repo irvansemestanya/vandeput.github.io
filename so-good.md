@@ -13,17 +13,18 @@ Rules:
 
 The "follow your passion" advice is dangerous, as not everyone understand what their passion is and also have means to pursue it. The real reason you will love your work is because of the three things elaborated below: skill, control, and mission.
 
-## 2. Be So Good They Can't Ignore You _(Or, the Importance of Skill)_
+## 2. Be So Good They Can't Ignore You
 
 Rather than asking what the job will offer you, ask yourself what you can offer (the career capital), is it rare and valuable skills?
 
 Job that doesn't allow you to use the craftman mindset:
+
 1. Few to no opportunities to distinguish yourself by skills.
 2. You think it is useless or perhaps bad for the world.
 3. Forces you to work with people you really dislike.
 
-aaa
+abc
 
-## 3. Turn Down a Promotion _(Or, the Importance of Control)_
+## 3. Turn Down a Promotion
 
-## 4. Think Small, Act Big _(Or, the Importance of Mission)_
+## 4. Think Small, Act Big
