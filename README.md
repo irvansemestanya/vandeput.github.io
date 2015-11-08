@@ -1,2 +1,5 @@
-# vandeput.github.io
-My public website. Please attribute back to me if you fork and pull request will be nice.
+Please attribute back if you fork and pull request will be nice.
+
+## Theme
+
+I am currently using theme [Vitae](https://github.com/biomadeira/vitae)
