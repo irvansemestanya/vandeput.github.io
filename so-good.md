@@ -11,7 +11,7 @@ Rules:
 
 1. Don't Follow Your Passion
 
-The "follow your passion" advice is dangerous, as not everyone understand what their passion is and also have means to pursue it. Also, the real reason you will love your work is because of the three things elaborated below: skill, control, and mission.
+The "follow your passion" advice is dangerous, as not everyone understand what their passion is and also have means to pursue it. The real reason you will love your work is because of the three things elaborated below: skill, control, and mission.
 
 2. Be So Good They Can't Ignore You _(Or, the Importance of Skill)_
 
