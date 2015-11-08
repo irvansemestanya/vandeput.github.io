@@ -15,7 +15,7 @@ The "follow your passion" advice is dangerous, as not everyone understand what t
 
 ## 2. Be So Good They Can't Ignore You
 
-Rather than asking what the job will offer you, ask yourself _what you can offer_ (the career capital), do you have the rare and valuable skills?
+Rather than asking what the job will offer you, ask yourself _what can you offer_ (the career capital), do you have the rare and valuable skills?
 
 Job that doesn't allow you to use the craftman mindset:
 
